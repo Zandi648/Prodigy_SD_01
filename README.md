@@ -20,4 +20,4 @@ To run the temperature conversion program:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/temperature-conversion.git
+   git clone https://github.com/Zandi648/temperature-conversion.git
